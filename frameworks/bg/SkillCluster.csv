@@ -1,0 +1,489 @@
+name,category,id
+Specialised Skills,Other,1
+Material Handling,Supply Chain and Logistics,2
+Power Tools,"Maintenance, Repair, and Installation",3
+Physical Abilities,Health Care,4
+Microsoft Office and Productivity Tools,Information Technology,5
+General Accounting,Finance,6
+Software Development Principles,Information Technology,7
+Engineering Management,Engineering,8
+Common Skills,Other,9
+Employee Training,Human Resources,10
+Product Management,Business,11
+Business Strategy,Business,12
+Economics,"Economics, Policy, and Social Studies",13
+Scripting Languages,Information Technology,14
+Statistical Software,Analysis,15
+SQL Databases and Programming,Information Technology,16
+Project Management,Business,17
+Compensation and Benefits,Human Resources,18
+Auditing,Finance,19
+Food and Beverage Service,Personal Care and Services,20
+Environmental Regulations,Environment,21
+Manufacturing Standards,Manufacturing and Production,22
+Quality Assurance and Control,Business,23
+Financial Reporting,Finance,24
+Budget Management,Finance,25
+Business Development,Sales,26
+Civil and Architectural Engineering,Engineering,27
+Financial Management,Finance,28
+Geotechnical Engineering,Engineering,29
+Billing and Invoicing,Finance,30
+Laboratory Research,Science and Research,31
+Network File System (NFS),Information Technology,32
+Business Management,Business,33
+Regulation and Law Compliance,Legal,34
+Risk Management,Business,35
+Administrative Support,Administration,36
+Customer Relationship Management (CRM),Marketing and Public Relations,37
+Basic Customer Service,Customer and Client Support,38
+Inside Sales,Sales,39
+General Sales,Sales,40
+Social Media,Marketing and Public Relations,41
+People Management,Business,42
+Financial Trading,Finance,43
+Financial Services Industry Knowledge,Industry Knowledge,44
+Java,Information Technology,45
+Operating Systems,Information Technology,46
+Microsoft Development Tools,Information Technology,47
+Systems Administration,Information Technology,48
+Database Administration,Information Technology,49
+Data Warehousing,Information Technology,50
+Software Development Methodologies,Information Technology,51
+Web Development,Information Technology,52
+Technical Support,Information Technology,53
+Test Automation,Information Technology,54
+System Design and Implementation,Information Technology,55
+Virtual Machines (VM),Information Technology,56
+Version Control,Information Technology,57
+Basic Electrical Systems,"Maintenance, Repair, and Installation",58
+Electrical Construction,Architecture and Construction,59
+Specialised Accounting,Finance,60
+Contract Management,Business,61
+General Administrative and Clerical Tasks,Administration,62
+Plumbing,"Maintenance, Repair, and Installation",63
+Environmental Work,Environment,64
+Machinery,Manufacturing and Production,65
+Occupational Health and Safety,Human Resources,66
+Cybersecurity,Information Technology,67
+Data Techniques,Analysis,68
+Anti-Malware Software,Information Technology,69
+Network Protocols,Information Technology,70
+Software Quality Assurance,Information Technology,71
+Productivity Software,Information Technology,72
+Data Analysis,Analysis,73
+JavaScript and jQuery,Information Technology,74
+Manufacturing Processes,Manufacturing and Production,75
+Performance Management,Business,76
+Operations Management,Business,77
+Fundraising,Marketing and Public Relations,78
+Property Management,Business,79
+Account Management,Sales,80
+Mental Health Diseases and Disorders,Health Care,81
+Business Process and Analysis,Business,82
+Oncology,Health Care,83
+Neurology,Health Care,84
+Endocrinology,Health Care,85
+Research Methodology,Science and Research,86
+Surveying,Engineering,87
+Program Management,Education and Training,88
+IT Management,Information Technology,89
+Cloud Solutions,Information Technology,90
+Scripting,Information Technology,91
+Microsoft Windows,Information Technology,92
+Help Desk Support,Information Technology,93
+Resource Management and Restoration,Environment,94
+Employee Relations,Human Resources,95
+Mathematics,Analysis,96
+NoSQL Databases,Information Technology,97
+Lean Manufacturing,Manufacturing and Production,98
+Energy Solutions,Energy and Utilities,99
+Business Intelligence,Analysis,100
+Web Servers,Information Technology,101
+Data Mining,Analysis,102
+Supply Chain Management,Supply Chain and Logistics,103
+Writing,Media and Writing,104
+Grant Applications,Marketing and Public Relations,105
+Data Management,Information Technology,106
+Advanced Customer Service,Customer and Client Support,107
+C and C++,Information Technology,108
+Medical Research,Health Care,109
+Physics,Science and Research,110
+Electrical and Mechanical Labor,"Maintenance, Repair, and Installation",111
+"Extraction, Transformation, and Loading (ETL)",Information Technology,112
+Online Sales,Sales,113
+Retail Sales,Sales,114
+Drafting and Engineering Design,Engineering,115
+Engineering Software,Engineering,116
+Process Engineering,Engineering,117
+Electronic Hardware,Engineering,118
+User Interface and User Experience (UI/UX) Design,Design,119
+Business Communications,Business,120
+Programming Principles,Information Technology,121
+General Networking,Information Technology,122
+Scheduling,Administration,123
+Mobile Development,Information Technology,124
+Network Configuration,Information Technology,125
+Hand Tools,"Maintenance, Repair, and Installation",126
+Online Marketing,Marketing and Public Relations,127
+Welding,Manufacturing and Production,128
+Public Health and Disease Prevention,Health Care,129
+Construction Management,Architecture and Construction,130
+IT Automation,Information Technology,131
+Optimisation,Business,132
+Big Data,Information Technology,133
+General Medical Tests and Procedures,Health Care,134
+Patient Education and Support,Health Care,135
+HVAC,"Maintenance, Repair, and Installation",136
+Procurement,Supply Chain and Logistics,137
+Prospecting and Qualification,Sales,138
+Investment Management,Finance,139
+Information Security,Information Technology,140
+Simulation,Engineering,141
+Construction Painting,Architecture and Construction,142
+Painting,"Maintenance, Repair, and Installation",143
+General Marketing,Marketing and Public Relations,144
+Order Management,Business,145
+General Sales Practices,Sales,146
+Computer-Aided Manufacturing,Manufacturing and Production,147
+Machine Tools,Manufacturing and Production,148
+Marketing Management,Marketing and Public Relations,149
+Tailoring and Sewing,"Maintenance, Repair, and Installation",150
+PHP Web,Information Technology,151
+Process Improvement,Business,152
+Validation,Analysis,153
+Costing,Finance,154
+Conservation,Environment,155
+Library and Cataloging,Education and Training,156
+Networking Hardware,Information Technology,157
+Enterprise Resource Planning (ERP),Information Technology,158
+Extensible Languages,Information Technology,159
+Technical Assistance,Business,160
+Financial Regulations,Finance,161
+Basic Living Activities Support,Health Care,162
+Medical Support,Health Care,163
+Rehab Therapy,Health Care,164
+Data Science,Analysis,165
+Machine Learning,Analysis,166
+Statistics,Analysis,167
+Graphic and Visual Design,Design,168
+Natural Language Processing (NLP),Analysis,169
+Advanced Patient Care,Health Care,170
+Biologics Industry Knowledge,Industry Knowledge,171
+Chemistry,Science and Research,172
+Nutrition and Diet,Health Care,173
+Energy Management,Energy and Utilities,174
+Internet of Things (IoT),Information Technology,175
+Market Analysis,Marketing and Public Relations,176
+Mechanical Engineering,Engineering,177
+Technical Sales,Sales,178
+Electrical and Computer Engineering,Engineering,179
+Genetics,Science and Research,180
+Infectious Diseases,Health Care,181
+E-Commerce,Sales,182
+Marketing Software,Marketing and Public Relations,183
+Office Machines,Administration,184
+Exercise Training,Education and Training,185
+Equipment Repair and Maintenance,"Maintenance, Repair, and Installation",186
+Supplier Relationship Management,Supply Chain and Logistics,187
+Corporate Accounting,Finance,188
+Due Diligence,Business,189
+Financial Analysis,Finance,190
+Carpentry,Architecture and Construction,191
+Intellectual Property,Legal,192
+Key Performance Indicators,Business,193
+Company Product and Service Knowledge,Sales,194
+Sales Management,Sales,195
+Energy Efficiency,Energy and Utilities,196
+Microsoft SQL Extensions,Information Technology,197
+Mainframe Technologies,Information Technology,198
+Sales Analysis,Sales,199
+Oracle,Information Technology,200
+Pricing Analysis,Business,201
+Software Development Tools,Information Technology,202
+Application Programming Interface (API),Information Technology,203
+Middleware,Information Technology,204
+Legal Research,Legal,205
+Product Development,Manufacturing and Production,206
+Human Resource Management and Planning,Human Resources,207
+Graphic and Visual Design Software,Design,208
+Brand Management,Marketing and Public Relations,209
+Content Development and Management,Media and Writing,210
+Promotional Materials,Marketing and Public Relations,211
+Payroll,Human Resources,212
+Biology,Science and Research,213
+Hazardous Waste Management,Environment,214
+Environmental Geology,Environment,215
+Earth and Space Science,Science and Research,216
+Surveys,Science and Research,217
+Project Management Software,Information Technology,218
+Physical Security,Public Safety and National Security,219
+Government Clearance and Security Standards,Public Safety and National Security,220
+Agronomy and Farming,"Agriculture, Horticulture, and the Outdoors",221
+Water Testing and Treatment,Environment,222
+Clean Energy,Energy and Utilities,223
+Mathematical Software,Analysis,224
+Wind Energy,Energy and Utilities,225
+Business Intelligence Software,Analysis,226
+Physical Therapy,Health Care,227
+Petroleum Science,Energy and Utilities,228
+Imaging,Engineering,229
+Employment Services Industry Knowledge,Industry Knowledge,230
+Loss Prevention,Public Safety and National Security,231
+Child Care,Personal Care and Services,232
+Teaching,Education and Training,233
+Accounts Payable and Receivable,Finance,234
+Claims Processing,Customer and Client Support,235
+General Shipping and Receiving,Supply Chain and Logistics,236
+Talent Management,Human Resources,237
+Financial Accounting,Finance,238
+Real Estate and Rental,Business,239
+Business Solutions,Business,240
+Telecommunications,Information Technology,241
+Chemical Analysis,Science and Research,242
+Power Generation,Energy and Utilities,243
+Materials Science,Manufacturing and Production,244
+Training Programs,Education and Training,245
+Solution Sales Engineering,Sales,246
+Commercial Lending,Finance,247
+Logistics,Supply Chain and Logistics,248
+Warehouse Management,Supply Chain and Logistics,249
+Litigation,Legal,250
+Estimating,Architecture and Construction,251
+Anesthesiology,Health Care,252
+Surgery,Health Care,253
+Cash Register Operation,Customer and Client Support,254
+Pediatrics,Health Care,255
+Social Work,Health Care,256
+Other Programming Languages,Information Technology,257
+Visual Design Production,Media and Writing,258
+Learning Management Systems,Education and Training,259
+Transportation Operations,Supply Chain and Logistics,260
+Architectural Design,Architecture and Construction,261
+Industrial Engineering Industry Knowledge,Industry Knowledge,262
+Outside Sales,Sales,263
+Automation Engineering,Engineering,264
+Vehicle Repair and Maintenance,"Maintenance, Repair, and Installation",265
+Cloud Storage,Information Technology,266
+Instructional and Curriculum Design,Education and Training,267
+Micro Manufacturing,Manufacturing and Production,268
+Office Management,Administration,269
+Urban Planning,"Economics, Policy, and Social Studies",270
+Child Development,Education and Training,271
+Ethanol,Environment,272
+Nephrology,Health Care,273
+Hematology,Health Care,274
+Basic Patient Care,Health Care,275
+Water Supply,Energy and Utilities,276
+Geographic Information System (GIS) Software,Information Technology,277
+Data Visualisation,Analysis,278
+Web Design,Information Technology,279
+Public Relations,Marketing and Public Relations,280
+Media Strategy and Planning,Marketing and Public Relations,281
+Law Enforcement and Criminal Justice,Legal,282
+Heavy Equipment,"Maintenance, Repair, and Installation",283
+Robotics,Engineering,284
+Optical Engineering,Engineering,285
+Corporate Communications,Marketing and Public Relations,286
+Facility Management and Maintenance,Supply Chain and Logistics,287
+Mergers and Acquisitions,Finance,288
+Masonry,Architecture and Construction,289
+Metal Fabrication,Manufacturing and Production,290
+SAP,Information Technology,291
+Mathematical Modeling,Analysis,292
+Network Security,Information Technology,293
+Trade Shows,Sales,294
+Health Care Procedure and Regulation,Health Care,295
+Tax,Finance,296
+Surveillance,Public Safety and National Security,297
+General Architecture,Architecture and Construction,298
+Gastroenterology,Health Care,299
+Android Development,Information Technology,300
+Basic Computer Knowledge,Information Technology,301
+Application Security,Information Technology,302
+Radiology,Health Care,303
+Brazing and Soldering,Manufacturing and Production,304
+Financial Advisement,Finance,305
+Web Analytics,Marketing and Public Relations,306
+Web Content,Information Technology,307
+Orthopedics,Health Care,308
+Mobility Assistance,Health Care,309
+Ad Hoc Analysis and Reporting,Analysis,310
+Accounting and Finance Software,Finance,311
+Medical Procedure and Regulation,Health Care,312
+Cellular Biology,Science and Research,313
+iOS Stack,Information Technology,314
+Green Architecture,Architecture and Construction,315
+Promotions and Campaigns,Marketing and Public Relations,316
+Marketing Strategy,Marketing and Public Relations,317
+Emergency and Intensive Care,Health Care,318
+Rehabilitation,Health Care,319
+Cardiology,Health Care,320
+Human Resource Management Systems,Human Resources,321
+Equipment Operation,"Maintenance, Repair, and Installation",322
+Electrical Power,Energy and Utilities,323
+Molecular Biology,Science and Research,324
+Drug Development,Science and Research,325
+Benefits Analysis,Business,326
+General Medicine,Health Care,327
+Mental and Behavioral Health Specialties,Health Care,328
+Inventory Management,Supply Chain and Logistics,329
+Management Information System (MIS),Information Technology,330
+Hazard Identification,"Maintenance, Repair, and Installation",331
+Education Administration,Education and Training,332
+Business Consulting,Business,333
+Industrial Engineering,Engineering,334
+Transportation Operations Management,Supply Chain and Logistics,335
+Mental Health Therapies,Health Care,336
+Store Management,Supply Chain and Logistics,337
+Economic Development,"Economics, Policy, and Social Studies",338
+Personal Care,Personal Care and Services,339
+Forestry,Environment,340
+Housekeeping,Personal Care and Services,341
+Patient Reception,Health Care,342
+Merchandising,Sales,343
+Event Planning and Management,Business,344
+Salesmanship,Sales,345
+Recruitment,Human Resources,346
+Peer Review,Education and Training,347
+Obstetrics and Gynecology (OBGYN),Health Care,348
+Dermatology,Health Care,349
+Pathology,Health Care,350
+Medical Billing and Coding,Health Care,351
+Dictation,Administration,352
+Presentation Design,Design,353
+Pharmacy,Health Care,354
+Policy Analysis,"Economics, Policy, and Social Studies",355
+Specialised Sales,Sales,356
+Roofing,Architecture and Construction,357
+Clinical Research,Health Care,358
+Telemarketing,Sales,359
+Retail Store Operations,Supply Chain and Logistics,360
+Childhood Education and Development,Education and Training,361
+Payment Processing and Collection,Customer and Client Support,362
+Road and Bridge Construction,Architecture and Construction,363
+Insurance Sales,Sales,364
+Inventory Maintenance,Supply Chain and Logistics,365
+Geriatrics,Health Care,366
+Advertising,Marketing and Public Relations,367
+Blood Collection,Health Care,368
+Construction Labor,Architecture and Construction,369
+Appliance Repair and Maintenance,"Maintenance, Repair, and Installation",370
+Journalism,Media and Writing,371
+Animal Health and Veterinary Medicine,Health Care,372
+Animal Care,Personal Care and Services,373
+Eye Care,Health Care,374
+Urology,Health Care,375
+Music,Media and Writing,376
+Nuclear Medicine,Health Care,377
+Artificial Intelligence,Information Technology,378
+Engineering Practices,Engineering,379
+Drywall,Architecture and Construction,380
+Digital Design,Design,381
+Online Advertising,Marketing and Public Relations,382
+Industrial Design,Design,383
+Media Production,Media and Writing,384
+Banking Services,Finance,385
+Aerospace Engineering,Engineering,386
+Injury Treatment,Health Care,387
+Investor Relations,Marketing and Public Relations,388
+Landscaping and Yard Care,"Agriculture, Horticulture, and the Outdoors",389
+Archiving,Education and Training,390
+Data Storage,Information Technology,391
+Supply Chain Planning,Supply Chain and Logistics,392
+Operations Analysis,Supply Chain and Logistics,393
+Alternative Therapy,Health Care,394
+Cash Management,Finance,395
+Cloud Computing,Information Technology,396
+Mortgage Lending,Finance,397
+Speech Language Pathology,Health Care,398
+Clinical Informatics,Health Care,399
+Clinical Data Management,Health Care,400
+Dental Care,Health Care,401
+Construction Inspection,Architecture and Construction,402
+Underwriting,Finance,403
+Radio Frequency Equipment,Engineering,404
+Animation and Game Design,Design,405
+Health Information Management and Security,Health Care,406
+Advanced Microsoft Excel,Information Technology,407
+First Aid,Health Care,408
+General Lending,Finance,409
+Fire Inspection,Public Safety and National Security,410
+Creative Design,Design,411
+Intelligence Collection and Analysis,Public Safety and National Security,412
+Oil Refining,Energy and Utilities,413
+Business-to-Business (B2B) Sales,Sales,414
+Integrated Development Environments (IDEs),Information Technology,415
+Patient Physical Measurements,Health Care,416
+Cost Accounting,Finance,417
+"Ear, Nose, and Throat",Health Care,418
+Air Transport,Supply Chain and Logistics,419
+Commodities,Finance,420
+Enterprise Content Management (ECM),Information Technology,421
+Medical Records,Health Care,422
+Emergency Services,Public Safety and National Security,423
+Roads and Drainage,Engineering,424
+Distributed Computing,Information Technology,425
+Signal Processing,Engineering,426
+Solar Energy,Energy and Utilities,427
+Memoranda Preparation,Administration,428
+Insulation,Architecture and Construction,429
+Product Inspection,Manufacturing and Production,430
+Biopharmaceutical Manufacturing,Science and Research,431
+Medical Documentation and Abstraction,Health Care,432
+Coaching and Athletic Training,Education and Training,433
+Knowledge Management,Business,434
+Routine Examination Tests and Procedures,Health Care,435
+Neuroscience,Science and Research,436
+Pulmonology,Health Care,437
+Ministry,Religion,438
+Civil Engineering Industry Knowledge,Industry Knowledge,439
+Social Studies,"Economics, Policy, and Social Studies",440
+Lending Assessment,Finance,441
+Waste Management,Environment,442
+Higher Education,Education and Training,443
+Materials Process,Manufacturing and Production,444
+Category Management,Business,445
+Natural Gas,Energy and Utilities,446
+Automotive Technologies,Engineering,447
+Chemical Engineering,Engineering,448
+Schematic Diagrams,"Maintenance, Repair, and Installation",449
+Air Quality,Environment,450
+Enterprise Messaging,Information Technology,451
+Agricultural Research,"Agriculture, Horticulture, and the Outdoors",452
+Multimedia,Media and Writing,453
+Conduits,Architecture and Construction,454
+Deductions,Human Resources,455
+Computer Hardware,Information Technology,456
+Audio Production,Media and Writing,457
+Technical Demonstrations,Sales,458
+Oil Drilling,Energy and Utilities,459
+Ecology,Environment,460
+Allergies,Health Care,461
+Art and Illustration,Design,462
+Internet Security,Information Technology,463
+Telephone Skills,Administration,464
+Document Management Systems,Information Technology,465
+Concept Development,Marketing and Public Relations,466
+Water Energy,Energy and Utilities,467
+Transportation Security,Public Safety and National Security,468
+Financial Aid Counseling,Finance,469
+Radio Frequency (RF),Engineering,470
+Instruction,Education and Training,471
+Hardware Description Languages (HDL),Engineering,472
+Oil Reservoirs,Energy and Utilities,473
+Packaging and Labeling,Marketing and Public Relations,474
+Circuitry,Engineering,475
+Oil Well Intervention,Energy and Utilities,476
+Manufacturing Design,Manufacturing and Production,477
+Labor Compliance,Legal,478
+Augumented Reality / Virtual Reality (AR / VR),Information Technology,479
+Bike Repair,"Maintenance, Repair, and Installation",480
+Hydraulic Fracturing,Energy and Utilities,481
+Nuclear Energy,Energy and Utilities,482
+Internal Controls,Business,483
+Test Administration,Education and Training,484
+Forensics,Legal,485
+Interpretations and Translations,Education and Training,486
+Oil Wells,Energy and Utilities,487
+Wiki,Information Technology,488
